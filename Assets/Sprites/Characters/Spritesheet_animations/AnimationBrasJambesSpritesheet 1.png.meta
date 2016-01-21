@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: cda9df048581f824899bb5a744d7e051
+timeCreated: 1444572118
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AnimationBrasJambesSpritesheet 1_0
+    21300002: AnimationBrasJambesSpritesheet 1_1
+    21300004: AnimationBrasJambesSpritesheet 1_2
+    21300006: AnimationBrasJambesSpritesheet 1_3
+    21300008: AnimationBrasJambesSpritesheet 1_4
+    21300010: AnimationBrasJambesSpritesheet 1_5
+    21300012: AnimationBrasJambesSpritesheet 1_6
+    21300014: AnimationBrasJambesSpritesheet 1_7
+    21300016: AnimationBrasJambesSpritesheet 1_8
+    21300018: AnimationBrasJambesSpritesheet 1_9
+    21300020: AnimationBrasJambesSpritesheet 1_10
+    21300022: AnimationBrasJambesSpritesheet 1_11
+    21300024: AnimationBrasJambesSpritesheet 1_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: AnimationBrasJambesSpritesheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AnimationBrasJambesSpritesheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 102
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AnimationBrasJambesSpritesheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 102
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AnimationBrasJambesSpritesheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 102
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AnimationBrasJambesSpritesheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 102
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AnimationBrasJambesSpritesheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77.4000015
+        width: 42.6666679
+        height: 25.5999985
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AnimationBrasJambesSpritesheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 77
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AnimationBrasJambesSpritesheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 77
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AnimationBrasJambesSpritesheet 1_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 78
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AnimationBrasJambesSpritesheet 1_10
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 78
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AnimationBrasJambesSpritesheet 1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52.4000015
+        width: 42.6666679
+        height: 25.5999985
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

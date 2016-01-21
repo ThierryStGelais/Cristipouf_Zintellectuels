@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a81d557b414a7954294b0e2a9d9b368b
+timeCreated: 1444529835
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - sprite_Base: {fileID: 21300000, guid: a192e0fe76ebf40209ffa5807592cece, type: 3}
+  - sprite_Niveau1: {fileID: 21300000, guid: 635042c9f57da48e999d6ca73f52202a, type: 3}
+  - sprite_Niveau2: {fileID: 21300000, guid: fb43fb1e8cb194bb1a00b55b59cbe263, type: 3}
+  - sprite_Niveau3: {fileID: 21300000, guid: e7a12a577343c4ec8a733be644ea3e8c, type: 3}
+  - sprite_Niveau4: {fileID: 21300000, guid: aab69262d9ad243cf83e26f6f4961034, type: 3}
+  - sprite_Niveau5: {fileID: 21300000, guid: fbbac0396a8fa4f59861b43c4cb5b259, type: 3}
+  - sprite_Niveau6: {fileID: 21300000, guid: 597f559010cfb47949efed0eb2ed2348, type: 3}
+  - classHeavy: {instanceID: 0}
+  - classLight: {instanceID: 0}
+  - classTech: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
